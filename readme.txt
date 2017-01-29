@@ -1,7 +1,5 @@
 This is a super simple, basic & lightweight responsive jQuery content slider to use
-freely.
-
-The slider can take pretty much any content be it images/text/iframe/video etc.
+freely. The slider can take pretty much any content be it images/text/iframe/video etc.
 
 A basic demo can be seen here: http://somdow.com/spslider-demo/
 
